@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\bin\Debug\Nayt Saat.exe.config
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\bin\Debug\Nayt Saat.exe
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\bin\Debug\Nayt Saat.pdb
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\obj\Debug\Nayt Saat.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\obj\Debug\Nayt_Saat.Form1.resources
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\obj\Debug\Nayt_Saat.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\obj\Debug\Nayt Saat.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\obj\Debug\Nayt Saat.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\obj\Debug\Nayt Saat.exe
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\obj\Debug\Nayt Saat.pdb
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\obj\Debug\Nayt_Saat.FrmYeniKullanici.resources
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\obj\Debug\Nayt_Saat.FrmMusteriGirisEkrani.resources
+C:\Users\lenovo\source\repos\Nayt Saat\Nayt Saat\obj\Debug\Nayt_Saat.FrmYoneticiGirisEkrani.resources
